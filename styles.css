@@ -1,0 +1,7 @@
+.item {
+  cursor: pointer;
+}
+.done {
+  color: green;
+  text-decoration: line-through;
+}
